@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+/media/
+/static/
+
+# Node
+node_modules/
+.next/
+.env
+
+# IA / modelos pesados
+*.h5
+*.pkl
+*.pt
+checkpoints/
+
+# IDE y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

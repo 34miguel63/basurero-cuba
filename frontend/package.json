@@ -1,0 +1,12 @@
+{
+  "name": "basurero-cuba-frontend",
+  "version": "0.1.0",
+  "description": "Frontend PWA de BasuraCero Cuba",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["pwa", "cuba", "residuos", "design-thinking"],
+  "license": "MIT"
+}
